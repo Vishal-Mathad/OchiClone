@@ -7,7 +7,7 @@ import About from './components/About'
 import Playful from './components/Playful'
 import Featured from './components/Featured'
 import FooterCards from './components/FooterCards'
-import Clients from './components/clients'
+import Clients from './components/Clients'
 import Ready from './components/Footer'
 import LocomotiveScroll from 'locomotive-scroll';
 
